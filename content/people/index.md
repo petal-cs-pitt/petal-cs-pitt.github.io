@@ -49,6 +49,7 @@ sections:
   Now at Pearson
 
 #### Alumni: Masters Students
+
 - [Ravneet Singh](https://people.cs.pitt.edu/~ras306/), Computer Science, 2022
 
 - [Heather Friedberg](https://www.linkedin.com/pub/heather-wade/68/6a9/6a2), Computer Science (MS Project: Lexical Entrainment and Success in Student Engineering Groups), 2012 (now at Google)

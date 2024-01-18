@@ -19,7 +19,7 @@ sections:
       #         brightness: 0.7
       #     # iage: 
       - title: 👋 <large>PETAL Lab <large> 
-        content: '<small>The <b>P</b>ittsburgh <b>E</b>duca<b>T</b>ional <b>A</b>nd <b>L</b>anguage technology lab <br> at the University of Pittsburgh focuses on Speech and Natural Language Technology for Educational Applications. Led by [Prof. Diane Litman](https://people.cs.pitt.edu/~litman/), our NLP research currently focuses on argument mining, multi-party dialogue, revision analysis, and summarization, applied to educational applications such as writing evaluation systems, dialogue tutors, and teacher dashboards. </small>'
+        content: '<small>The <b>P</b>ittsburgh <b>E</b>duca<b>T</b>ional <b>A</b>nd <b>L</b>anguage technology lab <br> at the University of Pittsburgh focuses on Speech and Natural Language Technology for Educational Applications. Led by [Prof. Diane J. Litman](https://people.cs.pitt.edu/~litman/), our NLP research currently focuses on argument mining, multi-party dialogue, revision analysis, and summarization, applied to educational applications such as writing evaluation systems, dialogue tutors, and teacher dashboards. </small>'
         align: center
         background:
           image:
