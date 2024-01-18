@@ -8,7 +8,7 @@ title: PETAL
 #     filename: 'petal_icon.jpg' # Website name
 image: 
   filename: 'petal_icon.jpg'
-baseURL: 'https://petal-cs-pitt.github.io/home' # Website URL
+baseURL: 'https://petal-cs-pitt.github.io' # Website URL
 
 ############################
 ## LANGUAGE
@@ -28,7 +28,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-    - path: github.com/rodrigoalcarazdelaosa/wowchemy-widget-hero-lottie
+    # - path: github.com/rodrigoalcarazdelaosa/wowchemy-widget-hero-lottie
 
 
 ############################
