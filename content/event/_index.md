@@ -2,7 +2,7 @@
 title: Projects
 
 # Listing view
-view: publication
+view: card
 sort_by: 'Date'
 show_date: false
 
