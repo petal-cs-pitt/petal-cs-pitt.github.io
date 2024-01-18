@@ -8,7 +8,7 @@ title: PETAL
 #     filename: 'petal_icon.jpg' # Website name
 image: 
   filename: 'petal_icon.jpg'
-baseURL: 'https://petal-cs-pitt.github.io/' # Website URL
+baseURL: 'https://petal-cs-pitt.github.io/home' # Website URL
 
 ############################
 ## LANGUAGE
