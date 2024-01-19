@@ -8,8 +8,8 @@ date: 2022-10-24
 |-|-|-|
 | ![NSF Logo](sponsors/nsf-logo.png) | ![US Dept. of Education Logo](sponsors/Seal_of_the_United_States_Department_of_Education.svg.png) | ![ONR Logo](sponsors/1516213553545.jpg) |
 | [The National Science Foundation](https://www.nsf.gov/) | [United States Department of Education Institute of Education Sciences](https://ies.ed.gov/) | [The Office of Naval Research](https://www.onr.navy.mil/) |
-| ![LRDC Logo](sponsors/lrdc.jpg) | ![Google Logo](sponsors/768px-Google__G__Logo.svg.png) |  |
-| [The Learning Research and Development Center University of Pittsburgh](https://www.lrdc.pitt.edu/) | [Google](https://research.google/outreach/) |  |
+| ![LRDC Logo](sponsors/lrdc.jpg) | ![Google Logo](sponsors/768px-Google__G__Logo.svg.png) | ![Tools Competition Logo](sponsors/toolscompetition.jpg) |
+| [The Learning Research and Development Center University of Pittsburgh](https://www.lrdc.pitt.edu/) | [Google](https://research.google/outreach/) | [Tools Competition](https://tools-competition.org/) |
 
 
 
