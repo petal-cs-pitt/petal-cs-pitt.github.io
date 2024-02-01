@@ -55,7 +55,7 @@ sections:
       #     url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '550px'
+      slide_height: '450px'
       # is_fullscreen: true
       # Automatically transition through slides?
       loop: true
@@ -77,8 +77,8 @@ sections:
   - block: collection
     content:
       title:  Recent News
-      subtitle:
-      text:
+      subtitle: <a class="twitter-timeline" href="https://twitter.com/PetalNLP?ref_src=twsrc%5Etfw">Tweets by PetalNLP</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      text: 
       count: 5
       filters:
         author: ''
