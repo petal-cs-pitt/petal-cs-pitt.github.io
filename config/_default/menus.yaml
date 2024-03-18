@@ -14,7 +14,7 @@ main:
     url: publication
     weight: 50
   - name: Project
-    url: event
+    url: project
     weight: 60
   - name: Resources
     url: resource
