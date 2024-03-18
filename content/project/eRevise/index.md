@@ -1,5 +1,5 @@
 ---
-title: eRevise [IES]
+title: eRevise [NSF]
 
 event: eRevise 
 event_url: "https://sites.google.com/view/erevise"
@@ -48,4 +48,4 @@ projects:
 ---
 **Funding**: [IES Award](https://ies.ed.gov/funding/grantsearch/details.asp?ID=1847) and [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202347&HistoricalAwards=false) with [Rip Correnti](https://www.education.pitt.edu/people/profile.aspx?f=RichardCorrenti) and [Lindsay Clare Matsumura](https://www.education.pitt.edu/people/profile.aspx?f=LindsayClareMatsumura).
 
-**Homepage**: [eRevise](https://sites.google.com/view/erevise)
+**Homepage**: [eRevise Project Homepage](https://sites.google.com/view/erevise)
