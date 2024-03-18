@@ -12,7 +12,7 @@ abstract: "Our project studies the use of Natural Language Processing (NLP) tech
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2016-09-01'
-date_end: #'2025-05-31'
+date_end: '2025-05-31'
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -24,7 +24,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''
