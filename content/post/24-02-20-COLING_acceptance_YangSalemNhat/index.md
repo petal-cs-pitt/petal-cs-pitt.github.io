@@ -4,5 +4,5 @@ date: 2024-02-20
 image:
   focal_point: 'top'
 ---
-Congratuations to Yang and Salem on their work on [ReflectSumm: A Benchmark for Course Reflection Summarization']()! Also congrats to Nhat on ['Enhancing Knowledge Retrieval with Topic Modeling for Knowledge-Grounded Dialogue]()! 
+Congratuations to Yang and Salem on their work on [ReflectSumm: A Benchmark for Course Reflection Summarization'](https://arxiv.org/abs/2403.19012)! Also congrats to Nhat on ['Enhancing Knowledge Retrieval with Topic Modeling for Knowledge-Grounded Dialogue]()! 
 <!--more-->
