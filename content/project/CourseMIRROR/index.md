@@ -1,5 +1,5 @@
 ---
-title: CourseMIRROR [IES]
+title: CourseMIRROR [NSF]
 
 event: CourseMIRROR
 event_url: "https://engineering.purdue.edu/coursemirror/"
@@ -46,6 +46,5 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-**Funding**: [IES Award](https://ies.ed.gov/funding/grantsearch/details.asp?ID=2130) with with Muhsin Meneske and Ala Samarapungavan (Purdue)
-
+**Funding**: [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2329274&HistoricalAwards=false) with with Muhsin Meneske (Purdue); [IES Award](https://ies.ed.gov/funding/grantsearch/details.asp?ID=2130) with with Muhsin Meneske and Ala Samarapungavan (Purdue)
 **Homepage**: [CourseMIRROR](https://engineering.purdue.edu/coursemirror/)
