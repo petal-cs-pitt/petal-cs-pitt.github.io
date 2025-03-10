@@ -8,8 +8,8 @@ authors:
 - Mason Gobat
 - Lindsay C. Matsumura
 - Richard Correnti
-date: '2025-04-29'
-publishDate: '2025-04-29T20:14:50.841055Z'
+date: '2025-02-28'
+publishDate: '2025-02-28T20:14:50.841055Z'
 publication_types: [1]
 publication: 'Proceedings of Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)'
 links:
