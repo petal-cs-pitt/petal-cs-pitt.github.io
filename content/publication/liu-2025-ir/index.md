@@ -3,7 +3,7 @@ title: 'eRevise+RF: A Writing Evaluation System for Assessing Student Essay Revi
 authors:
 - Zhexiong Liu
 - Diane Litman
-date: '2025-09-04'
+date: '2025-11-04'
 publishDate: '2025-09-28T20:14:50.841055Z'
 publication_types: [1]
 publication: 'Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP)'
