@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: "CS PhD 2025 [Dissertation]()"
 
 # Organizations/Affiliations
 organizations:
@@ -62,6 +62,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - Alumni
 ---
-Nhat is a PhD student at the Computer Science Department. His research focuses knowledge-enhanced NLP.
+Nhat graduated with his Ph.D degree in Nov 2025. His research focuses knowledge-enhanced NLP.

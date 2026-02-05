@@ -25,16 +25,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 education:
-  courses:
-    - course: PhD in Computer Science
-      institution: University of Pittsburgh
-      year: 2021 - 2025 (expected)
-    - course: MS in Computer Science
-      institution: Ohio State University
-      year: 2021
-    - course: BSc in Mathematics
-      institution: The University of Texas at Austin
-      year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

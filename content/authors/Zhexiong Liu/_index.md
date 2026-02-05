@@ -14,7 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: "CS PhD 2025 [Dissertation]() -->
+        Microsoft"
 
 # Organizations/Affiliations
 organizations:
@@ -73,6 +74,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - Alumni
 ---
-Zhexiong a Ph.D. student of Computer Science in the Department of Computer Science at University of Pittsburgh. He received a master of science degree in Computer Science at [Emory University](https://www.emory.edu/home/index.html) and a bachelor degree in Computer Science and Technology at [Sichuan University](https://en.scu.edu.cn/index.htm). He has a great passion for essay revision, argument mining, and multimodal learning.
+Zhexiong obtained his Ph.D. in Computer Science from Pittsburgh. He received a master of science degree in Computer Science at [Emory University](https://www.emory.edu/home/index.html) and a bachelor degree in Computer Science and Technology at [Sichuan University](https://en.scu.edu.cn/index.htm). He has a great passion for essay revision, argument mining, and multimodal learning.
