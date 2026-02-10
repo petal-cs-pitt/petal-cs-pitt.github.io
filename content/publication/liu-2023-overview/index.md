@@ -14,5 +14,5 @@ date: '2023-12-01'
 publishDate: '2024-01-16T20:14:50.841055Z'
 publication_types: [1]
 publication: '*Proceedings of the 10th Workshop on Argument Mining (at EMNLP)*'
-url_pdf: https://arxiv.org/pdf/2310.12172.pdf
+url_pdf: https://aclanthology.org/2023.argmining-1.12.pdf
 ---

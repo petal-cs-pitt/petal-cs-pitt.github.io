@@ -11,5 +11,5 @@ publication_types: ['1']
 publication: '*Proceedings of the 9th Workshop on Argument Mining (at COLING)*'
 links:
 - name: URL
-  url: https://aclanthology.org/2022.argmining-1.1/
+  url_pdf: https://aclanthology.org/2022.argmining-1.1.pdf
 ---
