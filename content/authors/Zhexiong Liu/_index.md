@@ -76,4 +76,4 @@ email: ''
 user_groups:
   - Alumni
 ---
-Zhexiong obtained his Ph.D. in Computer Science from Pittsburgh. He received a master of science degree in Computer Science at [Emory University](https://www.emory.edu/home/index.html) and a bachelor degree in Computer Science and Technology at [Sichuan University](https://en.scu.edu.cn/index.htm). He has a great passion for essay revision, argument mining, and multimodal learning.
+Zhexiong obtained his Ph.D. in Computer Science from University of Pittsburgh. He received a master of science degree in Computer Science at [Emory University](https://www.emory.edu/home/index.html) and a bachelor degree in Computer Science and Technology at [Sichuan University](https://en.scu.edu.cn/index.htm). He has a great passion for essay revision, argument mining, and multimodal learning.
