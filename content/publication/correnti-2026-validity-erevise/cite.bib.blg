@@ -1,0 +1,12 @@
+[0] Config.pm:304> INFO - This is Biber 2.12 running in TOOL mode
+[0] Config.pm:307> INFO - Logfile is 'content/publication/correnti-2026-validity-erevise/cite.bib.blg'
+[31] biber-darwin:315> INFO - === Mon Aug 17, 2026, 22:06:11
+[52] Biber.pm:4250> INFO - Looking for bibtex format file 'content/publication/correnti-2026-validity-erevise/cite.bib'
+[53] bibtex.pm:1523> INFO - LaTeX decoding ...
+[57] bibtex.pm:1340> INFO - Found BibTeX data source 'content/publication/correnti-2026-validity-erevise/cite.bib'
+[74] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[74] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[74] Biber.pm:3921> INFO - Sorting list 'tool/global//global/global' of type 'entry' with template 'tool' and locale 'en_US'
+[74] Biber.pm:3927> INFO - No sort tailoring available for locale 'en_US'
+[76] bibtex.pm:335> INFO - Writing '/private/tmp/codex-publication-validation.bib' with encoding 'UTF-8'
+[76] bibtex.pm:365> INFO - Output to /private/tmp/codex-publication-validation.bib

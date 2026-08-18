@@ -13,7 +13,31 @@ banner:
 
 
 <details>
-  <summary>Arxived News</summary>
+  <summary>Archived News</summary>
+
+#### 2024–2023
+
+- October 2024: Prof. Litman was ranked among the world's top 2% of scientists.
+
+- September 2024: Nhat Tran passed his PhD proposal defense.
+
+- July 2024: Nhat Tran and Diane Litman received a [Best Paper Award nomination](https://educationaldatamining.org/edm2024/best-paper-awards/) at the Educational Data Mining conference for [Analyzing Large Language Models for Classroom Discussion Assessment](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.50/2024.EDM-short-papers.50.pdf).
+
+- July 2024: Prof. Litman was elected a Fellow of the [Asia-Pacific Artificial Intelligence Association](https://www.aaia-ai.org/fellows?words=litman).
+
+- April 2024: Zhexiong Liu, Yang Zhong, and Mohamed Salem Elaraby passed their comprehensive examinations.
+
+- February 2024: Two papers were accepted to LREC-COLING 2024: Yang Zhong and Mohamed Salem Elaraby's [ReflectSumm: A Benchmark for Course Reflection Summarization](https://arxiv.org/abs/2403.19012), and Nhat Tran's *Enhancing Knowledge Retrieval with Topic Modeling for Knowledge-Grounded Dialogue*.
+
+- January 2024: Prof. Litman served on a [panel about generative AI and teaching](https://www.research.pitt.edu/events/generative-ai-and-teaching-uses-evaluation-learning).
+
+- October 2023: Team ISABEL, including Yuya Asano, placed third in the [Alexa TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge/2022).
+
+- Summer 2023: Mohamed Elaraby, Zhexiong Liu, and Yang Zhong completed internships at TikTok, Microsoft, and ETS, respectively.
+
+- July 2023: Yuya Asano won the Best Poster Award at AIED 2023.
+
+- Summer 2023: Zhexiong Liu and Diane Litman presented their poster on *Predicting the Quality of Revisions in Argumentative Writing* at the 18th BEA Workshop at ACL 2023.
 
 - February 2023: Yuya Asano is part of the team from Pitt in Amazon's Alexa Prize TaskBot Challenge 2! Read more in [Pittwire](https://www.pitt.edu/pittwire/features-articles/pitt-finalist-inclusive-alexa-taskbot-challenge).[![](images/isabel.png)](#)
 
