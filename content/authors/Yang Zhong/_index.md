@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD stuent
 
 # Organizations/Affiliations
 organizations:
@@ -27,14 +27,14 @@ bio:
 
 interests:
   - Text Generation
-  - Computational Linguistics
-  - Multimodal Machine Learning
+  - Computational Discourse
+  - Multimodal LLM
 
 education:
   courses:
     - course: PhD in Computer Science
       institution: University of Pittsburgh
-      year: 2021 - 2025 (expected)
+      year: 2021 - 2026 (expected)
     - course: MS in Computer Science
       institution: Ohio State University
       year: 2021
