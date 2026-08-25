@@ -17,6 +17,8 @@ role:  "CS PhD 2020  [Dissertation](https://www.proquest.com/openview/e47745ca83
         Ancestry"
 
 # Organizations/Affiliations
+graduation_date: '2020-01-01'
+
 organizations:
   - name: University of Pittsburgh
     url: ''

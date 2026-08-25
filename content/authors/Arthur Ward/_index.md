@@ -18,6 +18,8 @@ role:  "ISP PhD 2010 [Dissertation](https://d-scholarship.pitt.edu/8046/)"
   
 
 # Organizations/Affiliations
+graduation_date: '2010-01-01'
+
 organizations:
   - name: University of Pittsburgh
     url: ''

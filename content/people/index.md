@@ -14,9 +14,21 @@ sections:
           - Faculty
           # - Researchers
           - PhD Student
-          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
+    design:
+      show_interests: true
+      show_role: true
+      show_social: true
+
+  - block: people
+    content:
+      title: Alumni
+      # Alumni are shown newest to oldest by the `graduation_date` in each profile.
+      user_groups:
+          - Alumni
+      sort_by: Params.graduation_date
+      sort_ascending: false
     design:
       show_interests: true
       show_role: true

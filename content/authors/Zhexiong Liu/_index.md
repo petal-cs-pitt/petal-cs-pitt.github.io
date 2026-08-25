@@ -18,6 +18,8 @@ role: "CS PhD 2025 [Dissertation]() -->
         Microsoft"
 
 # Organizations/Affiliations
+graduation_date: '2025-11-21'
+
 organizations:
   - name: University of Pittsburgh
     url: ''
@@ -25,10 +27,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - NLP for education
-  - Computational Linguistics
-  - Multimodal Machine Learning
+# interests:
+#   - NLP for education
+#   - Computational Linguistics
+#   - Multimodal Machine Learning
 
 education:
   courses:

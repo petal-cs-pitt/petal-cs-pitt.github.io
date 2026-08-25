@@ -18,6 +18,8 @@ role:  "CS PhD 2022  [Dissertation](https://www.proquest.com/openview/d45dbc06d6
         ETS"
 
 # Organizations/Affiliations
+graduation_date: '2022-01-01'
+
 organizations:
   - name: University of Pittsburgh
     url: ''

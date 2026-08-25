@@ -17,6 +17,8 @@ superuser: false
 role:  "CS PhD 2021 [Dissertation](https://d-scholarship.pitt.edu/41983/) --> Amazon"
 
 # Organizations/Affiliations
+graduation_date: '2021-01-01'
+
 organizations:
   - name: University of Pittsburgh
     url: ''

@@ -18,6 +18,8 @@ role:  "CS PhD 2008 [Dissertation](https://d-scholarship.pitt.edu/10287/) --> he
   
 
 # Organizations/Affiliations
+graduation_date: '2008-01-01'
+
 organizations:
   - name: University of Pittsburgh
     url: ''

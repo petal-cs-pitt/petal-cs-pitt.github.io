@@ -17,6 +17,8 @@ superuser: false
 role: 'CS PhD 2026 [Dissertation](https://www.sci.pitt.edu/sites/default/files/assets/Defenses/defense_abstract_cs_elaraby.pdf) → Zillow'
 
 # Organizations/Affiliations
+graduation_date: '2026-08-24'
+
 organizations:
   - name: Zillow
     url: 'https://www.zillow.com/'
@@ -24,10 +26,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - Natural Language Generation
-  - Computational Argumentation
-  - Text Summarization
+# interests:
+#   - Natural Language Generation
+#   - Computational Argumentation
+#   - Text Summarization
 
 education:
   courses:

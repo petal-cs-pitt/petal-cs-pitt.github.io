@@ -17,6 +17,8 @@ superuser: false
 role: "CS PhD 2025 [Dissertation]()"
 
 # Organizations/Affiliations
+graduation_date: '2025-12-08'
+
 organizations:
   - name: University of Pittsburgh
     url: ''
@@ -24,10 +26,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - Knowledge-enhanced NLP
-  - Computational Linguistics
-  - Text Retrieval
+# interests:
+#   - Knowledge-enhanced NLP
+#   - Computational Linguistics
+#   - Text Retrieval
 
 education:
   courses:

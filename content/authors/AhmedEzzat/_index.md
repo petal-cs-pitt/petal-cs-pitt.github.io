@@ -18,6 +18,8 @@ role:  "CS PhD 2022  [Dissertation](https://www.proquest.com/openview/a7562ecbe6
         Microsoft"
 
 # Organizations/Affiliations
+graduation_date: '2022-01-01'
+
 organizations:
   - name: University of Pittsburgh
     url: ''
