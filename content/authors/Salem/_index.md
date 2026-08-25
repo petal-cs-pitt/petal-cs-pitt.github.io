@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: 'CS PhD 2026 [Dissertation](https://www.sci.pitt.edu/sites/default/files/assets/Defenses/defense_abstract_cs_elaraby.pdf) → Zillow'
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Pittsburgh
-    url: ''
+  - name: Zillow
+    url: 'https://www.zillow.com/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Pittsburgh
-      year: 2021 - 2025 (expected)
+      year: 2021 - 2026
     - course: MS in Electrical Engineering 
       institution: Cairo University
       year: 2017
@@ -73,6 +73,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - Alumni
 ---
-Mohamed Salem Elaraby is a PhD student at the Computer Science Department. His research focuses on natural language processing with a focus on text summarizatin and computational argumentation. Previously, he obainted his master's degree in Eletrical Engineering Science from Cairo University in 2017. He also received a bachelor in Electrical Engineering in 2014. He worked as an NLP engineer at [Agolo](https://www.agolo.com/) and Datascientist at [Microsoft ATLC](https://www.microsoft.com/en-us/research/).
+Mohamed Salem Elaraby earned his PhD in Computer Science from the University of Pittsburgh in 2026. His research focuses on natural language processing, particularly text summarization and computational argumentation. He earned a master's degree in Electrical Engineering Science from Cairo University in 2017 and a bachelor's degree in Electrical Engineering in 2014. He previously worked as an NLP engineer at [Agolo](https://www.agolo.com/) and a data scientist at [Microsoft ATLC](https://www.microsoft.com/en-us/research/).
