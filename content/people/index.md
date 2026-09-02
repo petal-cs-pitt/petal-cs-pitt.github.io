@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Faculty
           # - Researchers
-          - PhD Student
+          - PhD Students
       sort_by: Params.last_name
       sort_ascending: true
     design:
