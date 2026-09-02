@@ -56,6 +56,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=KcqTxnAAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/shamika-likhite0904/'
   #- icon: semantic-scholar
   #icon_pack: ai
   #link: https://www.semanticscholar.org/author/Mohamed-S.-Elaraby/41134103
