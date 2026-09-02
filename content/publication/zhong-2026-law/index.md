@@ -35,10 +35,10 @@ featured: true
 #   - name: Custom Link
 #     url: http://example.org
 url_pdf: https://aclanthology.org/2026.law-main.12
-url_code: ''
+url_code: 'https://github.com/cs329yangzhong/faithfulEval4LongSumm'
 url_poster: '#'
 url_project: ''
-# url_source: '#'
+url_slide: 'https://docs.google.com/presentation/d/1TVXyabzpvqdg4wtdoeendpghc6oc0zRH8x0wP3kwtKA/edit?usp=sharing'
 # url_video: '#'
 
 # Featured image

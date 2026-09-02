@@ -34,8 +34,8 @@ featured: true
 #   - name: Custom Link
 #     url: http://example.org
 url_pdf: https://aclanthology.org/2025.findings-acl.648/
-url_code: ''
-url_poster: '#'
+url_code: 'https://github.com/cs329yangzhong/TaleOfFactualEval'
+url_poster: zhong_acl_findings_2025.pdf
 url_project: ''
 # url_source: '#'
 # url_video: '#'
