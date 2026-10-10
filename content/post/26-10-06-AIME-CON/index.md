@@ -5,6 +5,6 @@ image:
   focal_point: 'top'
 ---
 
-Petal lab members at AIME-Con 2026, Pittsburgh!
+Petal Lab members attended AIME-CON 2026 in Pittsburgh!
 
 <!--more-->
